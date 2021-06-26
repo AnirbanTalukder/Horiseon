@@ -86,49 +86,23 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+
+/* consolidating all the class starts with benefit so that other sections is covered */
+
+
+/* Changing fonts colors so that the asides are ADA compainced */
+
+[class^="benefit"] {
     margin-bottom: 32px;
     color: black;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: black;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: black;
-}
-
-.benefit-lead h3 {
+[class^="benefit"] h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+[class^="benefit"] img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -161,29 +135,17 @@ p {
     color: #ffffff;
 }
 
-#search-engine-optimization img {
+
+/* consolidated all id's having a nested image are uses same style */
+
+[id] img {
     max-height: 200px;
 }
 
-#online-reputation-management img {
-    max-height: 200px;
-}
 
-#social-media-marketing img {
-    max-height: 200px;
-}
+/* consolidated all id's having a nested h2 are uses same style */
 
-#search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-#social-media-marketing h2 {
+[id] h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
