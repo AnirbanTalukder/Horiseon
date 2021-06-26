@@ -7,7 +7,7 @@
 
 
 ## Demo
-](horiseon.gif)
+![Horiseon](horiseon.gif)
 
 ## Links to deployed page
 * [Deployed page](https://anirbantalukder.github.io/homework/Develop/index.html)
