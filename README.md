@@ -16,5 +16,5 @@
 ![Horiseon](horiseon.gif)
 
 ## Links to deployed page
-* [Deployed page](https://anirbantalukder.github.io/Horiseon/Develop/index.html)
-* [Github repo](https://github.com/AnirbanTalukder/Horiseon)
+* [Deployed page](https://anirbantalukder.github.io/homework/Develop/index.html)
+* [Github repo](https://github.com/AnirbanTalukder/homework)
